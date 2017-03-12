@@ -69,7 +69,7 @@ header h2 {
 }
 
 #downloads {
-  display: none;  
+  display: none;
 }
 
 #downloads .btn {
@@ -233,6 +233,11 @@ hr {
 a {
   color: #63c0f5;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+}
+
+a.secondary {
+  color: #2778a6;
+  text-shadow: 0 0 5px rgba(31, 86, 138, 0.5);
 }
 
 /* Clearfix */
